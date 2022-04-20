@@ -1,0 +1,59 @@
+h1 {
+    font-size: 64px;
+    font-family: fantasy, Georgia, serif;
+    text-align: center;
+}
+
+#main-title {
+    color: goldenrod;
+}
+
+img {
+    border-radius: 10%;
+    width: 300;
+    height: auto;
+}
+
+.main-link {
+    color: blueviolet;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-title {
+    color: green;
+}
+
+h3 {
+    font-size: 46px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: slateblue;
+    text-align: center;
+    
+}
+
+.ingredients li {
+    color: olive;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.steps li {
+    color: lightcoral;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.return-link {
+    color: goldenrod;
+    font-size: 32px;
+    font-family: cursive, Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+}
+
+.description {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkcyan;
+    background-color: salmon;
+}
